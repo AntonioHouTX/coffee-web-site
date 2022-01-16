@@ -21,7 +21,7 @@ macchiato.addEventListener('click', () => {
 })
 
 caffeLatte.addEventListener('click', () => {
-  description.textContent = 'Equal parts Espresso and steamed milk.'
+  description.textContent = 'Equal parts Espresso and test steamed milk.'
 })
 
 americano.addEventListener('click', () => {
